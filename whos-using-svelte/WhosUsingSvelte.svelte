@@ -57,6 +57,8 @@
 	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.casinotop.com/"><img src="organisations/casinotop-r.svg" alt="CasinoTop logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.casinotopp.net/"><img src="organisations/casinotopp-r.svg" alt="CasinoTopp logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://app.cliniciannexus.com/"><img src="organisations/cliniciannexus.png" alt="Clinician Nexus logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://comigosaude.com.br"><img src="organisations/comigo.svg" alt="Comigo logo" loading="lazy"></a>
